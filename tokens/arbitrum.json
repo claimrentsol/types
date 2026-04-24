@@ -1,0 +1,35 @@
+{
+    "chainId":  42161,
+    "tokens":  [
+                   {
+                       "address":  "0x0000000000000000000000000000000000000000",
+                       "chainId":  42161,
+                       "symbol":  "ETH",
+                       "decimals":  18,
+                       "name":  "Ether",
+                       "coinKey":  "ETH",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/info/logo.png",
+                       "verified":  true
+                   },
+                   {
+                       "address":  "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+                       "chainId":  42161,
+                       "symbol":  "USDC",
+                       "decimals":  6,
+                       "name":  "USD Coin",
+                       "coinKey":  "USDC",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xaf88d065e77c8cC2239327C5EDb3A432268e5831/logo.png",
+                       "verified":  true
+                   },
+                   {
+                       "address":  "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+                       "chainId":  42161,
+                       "symbol":  "USDT",
+                       "decimals":  6,
+                       "name":  "Tether USD",
+                       "coinKey":  "USDT",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/arbitrum/assets/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9/logo.png",
+                       "verified":  true
+                   }
+               ]
+}

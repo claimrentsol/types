@@ -1,0 +1,35 @@
+{
+    "chainId":  137,
+    "tokens":  [
+                   {
+                       "address":  "0x0000000000000000000000000000000000000000",
+                       "chainId":  137,
+                       "symbol":  "POL",
+                       "decimals":  18,
+                       "name":  "POL",
+                       "coinKey":  "POL",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/info/logo.png",
+                       "verified":  true
+                   },
+                   {
+                       "address":  "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+                       "chainId":  137,
+                       "symbol":  "USDC",
+                       "decimals":  6,
+                       "name":  "USD Coin",
+                       "coinKey":  "USDC",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x3c499c542cef5e3811e1192ce70d8cc03d5c3359/logo.png",
+                       "verified":  true
+                   },
+                   {
+                       "address":  "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+                       "chainId":  137,
+                       "symbol":  "USDT",
+                       "decimals":  6,
+                       "name":  "Tether USD",
+                       "coinKey":  "USDT",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png",
+                       "verified":  true
+                   }
+               ]
+}

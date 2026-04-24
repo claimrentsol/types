@@ -1,0 +1,35 @@
+{
+    "chainId":  10,
+    "tokens":  [
+                   {
+                       "address":  "0x0000000000000000000000000000000000000000",
+                       "chainId":  10,
+                       "symbol":  "ETH",
+                       "decimals":  18,
+                       "name":  "Ether",
+                       "coinKey":  "ETH",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/info/logo.png",
+                       "verified":  true
+                   },
+                   {
+                       "address":  "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+                       "chainId":  10,
+                       "symbol":  "USDC",
+                       "decimals":  6,
+                       "name":  "USD Coin",
+                       "coinKey":  "USDC",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x0b2c639c533813f4aa9d7837caf62653d097ff85/logo.png",
+                       "verified":  true
+                   },
+                   {
+                       "address":  "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+                       "chainId":  10,
+                       "symbol":  "USDT",
+                       "decimals":  6,
+                       "name":  "Tether USD",
+                       "coinKey":  "USDT",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/optimism/assets/0x94b008aA00579c1307B0EF2c499aD98a8ce58e58/logo.png",
+                       "verified":  true
+                   }
+               ]
+}

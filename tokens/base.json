@@ -1,0 +1,35 @@
+{
+    "chainId":  8453,
+    "tokens":  [
+                   {
+                       "address":  "0x0000000000000000000000000000000000000000",
+                       "chainId":  8453,
+                       "symbol":  "ETH",
+                       "decimals":  18,
+                       "name":  "Ether",
+                       "coinKey":  "ETH",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/info/logo.png",
+                       "verified":  true
+                   },
+                   {
+                       "address":  "0x833589fCD6EDB6E08f4c7C32D4f71b54bdA02913",
+                       "chainId":  8453,
+                       "symbol":  "USDC",
+                       "decimals":  6,
+                       "name":  "USD Coin",
+                       "coinKey":  "USDC",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0x833589fCD6EDB6E08f4c7C32D4f71b54bdA02913/logo.png",
+                       "verified":  true
+                   },
+                   {
+                       "address":  "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+                       "chainId":  8453,
+                       "symbol":  "USDT",
+                       "decimals":  6,
+                       "name":  "Tether USD",
+                       "coinKey":  "USDT",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/base/assets/0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2/logo.png",
+                       "verified":  true
+                   }
+               ]
+}

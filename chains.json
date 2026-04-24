@@ -1,0 +1,95 @@
+{
+  "version": "2026-04-24",
+  "chains": [
+    {
+      "id": 1,
+      "key": "eth",
+      "chainType": "EVM",
+      "name": "Ethereum",
+      "tokenList": "ethereum",
+      "coin": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/ethereum.svg",
+      "mainnet": true
+    },
+    {
+      "id": 137,
+      "key": "pol",
+      "chainType": "EVM",
+      "name": "Polygon",
+      "tokenList": "polygon",
+      "coin": "POL",
+      "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/polygon.svg",
+      "mainnet": true
+    },
+    {
+      "id": 42161,
+      "key": "arb",
+      "chainType": "EVM",
+      "name": "Arbitrum",
+      "tokenList": "arbitrum",
+      "coin": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/arbitrum.svg",
+      "mainnet": true
+    },
+    {
+      "id": 10,
+      "key": "opt",
+      "chainType": "EVM",
+      "name": "Optimism",
+      "tokenList": "optimism",
+      "coin": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/optimism.svg",
+      "mainnet": true
+    },
+    {
+      "id": 8453,
+      "key": "bas",
+      "chainType": "EVM",
+      "name": "Base",
+      "tokenList": "base",
+      "coin": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/base.svg",
+      "mainnet": true
+    },
+    {
+      "id": 43114,
+      "key": "ava",
+      "chainType": "EVM",
+      "name": "Avalanche",
+      "tokenList": "avalanche",
+      "coin": "AVAX",
+      "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/chains/avalanche.svg",
+      "mainnet": true
+    },
+    {
+      "id": 20000000000001,
+      "key": "btc",
+      "chainType": "UTXO",
+      "name": "Bitcoin",
+      "tokenList": "bitcoin",
+      "coin": "BTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/1/standard/bitcoin.png",
+      "mainnet": true
+    },
+    {
+      "id": 1151111081099710,
+      "key": "sol",
+      "chainType": "SVM",
+      "name": "Solana",
+      "tokenList": "solana",
+      "coin": "SOL",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+      "mainnet": true
+    },
+    {
+      "id": 9270000000000000,
+      "key": "sui",
+      "chainType": "MVM",
+      "name": "Sui",
+      "tokenList": "sui",
+      "coin": "SUI",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png",
+      "mainnet": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+    "chainId":  1151111081099710,
+    "tokens":  [
+                   {
+                       "address":  "11111111111111111111111111111111",
+                       "chainId":  1151111081099710,
+                       "symbol":  "SOL",
+                       "decimals":  9,
+                       "name":  "SOL",
+                       "coinKey":  "SOL",
+                       "logoURI":  "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+                       "verified":  true
+                   },
+                   {
+                       "address":  "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+                       "chainId":  1151111081099710,
+                       "symbol":  "USDC",
+                       "decimals":  6,
+                       "name":  "USD Coin",
+                       "coinKey":  "USDC",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+                       "verified":  true
+                   },
+                   {
+                       "address":  "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+                       "chainId":  1151111081099710,
+                       "symbol":  "USDT",
+                       "decimals":  6,
+                       "name":  "USDT",
+                       "coinKey":  "USDT",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+                       "verified":  true
+                   }
+               ]
+}

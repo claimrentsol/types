@@ -1,0 +1,35 @@
+{
+    "chainId":  43114,
+    "tokens":  [
+                   {
+                       "address":  "0x0000000000000000000000000000000000000000",
+                       "chainId":  43114,
+                       "symbol":  "AVAX",
+                       "decimals":  18,
+                       "name":  "Avalanche",
+                       "coinKey":  "AVAX",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanche/info/logo.png",
+                       "verified":  true
+                   },
+                   {
+                       "address":  "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+                       "chainId":  43114,
+                       "symbol":  "USDC",
+                       "decimals":  6,
+                       "name":  "USD Coin",
+                       "coinKey":  "USDC",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png",
+                       "verified":  true
+                   },
+                   {
+                       "address":  "0x9702230A8EA53601f5CD2dc00fDBc13d4dF4A8c7",
+                       "chainId":  43114,
+                       "symbol":  "USDT",
+                       "decimals":  6,
+                       "name":  "Tether USD",
+                       "coinKey":  "USDT",
+                       "logoURI":  "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0x9702230A8EA53601f5CD2dc00fDBc13d4dF4A8c7/logo.png",
+                       "verified":  true
+                   }
+               ]
+}
